@@ -1,0 +1,1 @@
+{"license":"MIT","name":"github-core-clone-01-entry","private":true,"scripts":{"start":"node --experimental-strip-types main.ts"},"type":"module","version":"1.0.0"}
